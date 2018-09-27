@@ -6,7 +6,7 @@
 
 	<groupId>com.github.wxpay</groupId>
 	<artifactId>wxpay-sdk</artifactId>
-	<version>zhongan-3.0.9</version>
+	<version>giveup-3.0.9</version>
 	<name>wxpay-sdk</name>
 	<description>wxpay sdk</description>
 	<url>https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=11_1</url>
